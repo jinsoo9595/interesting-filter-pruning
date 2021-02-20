@@ -5,7 +5,7 @@ Among the state-of-the-art neural network pruning methods, we looked at the pape
 > He, Yang, et al. "Filter pruning via geometric median for deep convolutional neural networks acceleration." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019. [Filter pruning via geometric median](https://openaccess.thecvf.com/content_CVPR_2019/html/He_Filter_Pruning_via_Geometric_Median_for_Deep_Convolutional_Neural_Networks_CVPR_2019_paper.html)
 
 # co-researcher
-Please visit my **co-researcher's** github as well! (he's~ hansome)
+Please visit my **co-researcher's** github as well! (he's~ hansome)  
 https://github.com/cloudpark93
 
 # Requirements
