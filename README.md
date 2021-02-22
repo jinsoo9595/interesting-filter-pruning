@@ -15,6 +15,8 @@ https://github.com/cloudpark93
 
 
 # Models
-**VGG16-cifar10** This is a customized model that can train CIFAR10, not the ImageNet dataset, and we implemented it based on [easy-filter-pruning](https://github.com/cloudpark93/easy-filter-pruning).
+**VGG16-cifar10**  
+This is a customized model that can train CIFAR10, not the ImageNet dataset, and we implemented it based on [easy-filter-pruning](https://github.com/cloudpark93/easy-filter-pruning).
 
-**Original ResNet** We proceeded with the pre-trained model provided by Keras [ResNet](https://keras.io/api/applications/).
+**Original ResNet**  
+We proceeded with the pre-trained model provided by Keras [ResNet](https://keras.io/api/applications/).
