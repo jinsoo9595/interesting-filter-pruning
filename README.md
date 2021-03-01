@@ -20,3 +20,7 @@ This is a customized model that can train CIFAR10, not the ImageNet dataset, and
 
 **Original ResNet**  
 We proceeded with the pre-trained model provided by Keras [ResNet](https://keras.io/api/applications/).
+
+
+# To Do
+I will add tests for models and datasets from ResNet56(CIFAR10) and ResNet18(ImageNet).
